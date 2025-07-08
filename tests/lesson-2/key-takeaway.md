@@ -1,5 +1,5 @@
 # 1. Version control System
-1. Local : lưu ở máy cá nhâ
+1. Local : lưu ở máy cá nhân
 2. Centralize : lưu ở máy chủ tập trung
 3. Distributed : lưu ở nhiều máy khác nhau
 
@@ -31,7 +31,7 @@
 - git commit -m"message"
 ### kiểm tra lịch sử commit
 - git log
-### convention: chore, feat, fix
+## 3. Convention: chore, feat, fix
 
 
 # 3. Javascript basic
